@@ -1,4 +1,4 @@
-# WebStore is a imaginary web store, created by Paavo Helin(me), Jori Hänninen and Vladimir Gavrilov.
+# WebStore is an imaginary web store, created by Paavo Helin(me), Jori Hänninen and Vladimir Gavrilov.
 This project was for the course "Web-tekniikat"(Web technologies) at Metropolia, University of applied sciences.
 
 # *Notice*
